@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 import Navbar from "@/components/Navbar.js";
-=======
-import Navbar from "@/Components/Navbar.js";
->>>>>>> ccf5b8b2f8252c81631deb528c76578d04c39772
+
 import { Inter } from "next/font/google";
 import "./globals.css";
 
