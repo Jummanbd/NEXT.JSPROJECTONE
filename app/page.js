@@ -1,5 +1,9 @@
 'use client'
+<<<<<<< HEAD
 import Todo from "@/components/Todo.js";
+=======
+import Todo from "@/Components/Todo.js";
+>>>>>>> ccf5b8b2f8252c81631deb528c76578d04c39772
 import axios from "axios";
 import { useEffect, useState } from "react";
 import { ToastContainer, toast } from 'react-toastify';
